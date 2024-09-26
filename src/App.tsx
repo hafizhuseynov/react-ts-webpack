@@ -3,10 +3,10 @@ import HomeIcon from './assets/icons/home.svg';
 
 const App = () => {
   return (
-    <div>
-      <h1>React App</h1>
+    <main>
       <HomeIcon width={30} height={30} />
-    </div>
+      <h1>React App</h1>
+    </main>
   );
 };
 
